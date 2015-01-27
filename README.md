@@ -91,7 +91,7 @@ Supported Languages
 
 How to Stop Liking or Unliking
 ==============================
-There are to way to stop Liking or Unliking:
+There are two way to stop Liking or Unliking:
   - If you are Liking posts or comments, To stop Liking click on Unlike button... Similarly If you are Unliking posts or comments, To stop Uniking click on Like button...
   - Click on "Stop Liking or Unliking" button, it will reload page and stop stop Liking or Unliking...
 
