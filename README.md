@@ -9,7 +9,7 @@ Facebook AutoLike Professional
 
 Introduction
 ============
-Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists posts, page feeds, events posts, timeline photos etc... This User Script is now in two Flavours:
+Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists posts, page feeds, events posts, timeline photos etc... further more you can change Facebook Theme with this version of facebook auto Like...  This User Script is easy to use and install... Facebook Auto Like Professional and Unlimited is 100% safe to use... This user script will not violate your privacy... This User Script is now in two Flavours:
 
 <b>Facebook Auto Like Professional</b>
 
