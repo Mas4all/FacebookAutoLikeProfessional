@@ -34,7 +34,8 @@ Screen Shots
 
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/facebookAutoLikeProfessionalscreenshot.8.png)
 
-![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChange.png)
+![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChange.gif)
+
 ![](https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/FacebookAutoLikeProfessionalUserScriptThemeChangeMainPage.png)
 
 
