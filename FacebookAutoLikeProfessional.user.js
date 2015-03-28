@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name			Facebook Auto Like Professional 2015 v10
+// @name			Facebook Auto Like Professional 2015
 // @namespace		http://zrftech.blogspot.com
 // @author			Zia Ur Rehman(Z.R.F) <ziaurr3hman@hotmail.com> http://ziaurr3hman.comoj.com
 // @description		Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos...
