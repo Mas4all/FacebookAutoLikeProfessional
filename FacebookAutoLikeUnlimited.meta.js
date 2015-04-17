@@ -1,5 +1,5 @@
 // ==UserScript==
 // @namespace		http://zrftech.blogspot.com
 // @downloadURL 	https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeUnlimited.user.js
-// @version  		11.0
+// @version  		12.0
 // ==/UserScript==
